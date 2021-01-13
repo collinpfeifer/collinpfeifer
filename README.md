@@ -1,6 +1,6 @@
 ### Hello 👋
 
-😀 I'm Collin 
+😀 I'm Collin <br />
 🔬 I'm currently working on hello friend, my React based journaling app 
 🌐 I'm a big fan of Web Development 
 🐈 I love cats and tacos 
