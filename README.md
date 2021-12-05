@@ -8,4 +8,4 @@
 🐈 I love cats and tacos <br />
 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/collin-pfeifer-5b77831a7/) to talk about pretty much anything! <br />
 
-[![Collin's github stats](https://github-readme-stats.vercel.app/api?username=collinpfeifer)](https://github.com/anuraghazra/github-readme-stats)
+[![Collin's github stats](https://github-readme-stats.vercel.app/api?username=collinpfeifer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
